@@ -13,6 +13,7 @@
     "hardhat": "^2.9.9"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.1"
+    "@openzeppelin/contracts": "^4.7.1",
+    "eth-permit": "^0.2.1"
   }
 }
