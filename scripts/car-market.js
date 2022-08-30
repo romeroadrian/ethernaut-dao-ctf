@@ -1,5 +1,5 @@
 const hre = require("hardhat");
-const {  ethers, network } = hre;
+const { ethers, network } = hre;
 
 // https://goerli.etherscan.io/address/0x66408824a99ff61ae2e032e3c7a461ded1a6718e
 const tokenAddress = '0x66408824a99ff61ae2e032e3c7a461ded1a6718e';
