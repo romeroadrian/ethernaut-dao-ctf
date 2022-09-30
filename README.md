@@ -101,5 +101,7 @@ https://twitter.com/EthernautDAO/status/1571136905021952001
 
 Contracts:
 - [Staking.sol](./contracts/Staking.sol)
+- [RewardToken.sol](./contracts/RewardToken.sol)
+- [StakingToken.sol](./contracts/StakingToken.sol)
 
 Solution: [staking.js](./scripts/staking.js)
