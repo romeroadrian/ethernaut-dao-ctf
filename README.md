@@ -94,3 +94,12 @@ Contracts:
 - [EtherWallet.sol](./contracts/EtherWallet.sol)
 
 Solution: [ether-wallet.js](./scripts/ether-wallet.js)
+
+### Staking
+
+https://twitter.com/EthernautDAO/status/1571136905021952001
+
+Contracts:
+- [Staking.sol](./contracts/Staking.sol)
+
+Solution: [staking.js](./scripts/staking.js)
