@@ -95,6 +95,16 @@ Contracts:
 
 Solution: [ether-wallet.js](./scripts/ether-wallet.js)
 
+### Vault
+
+https://twitter.com/EthernautDAO/status/1566425852858040323
+
+Contracts:
+- [Vault.sol](./contracts/Vault.sol)
+- [Vesting.sol](./contracts/Vesting.sol)
+
+Solution: [vault.js](./scripts/vault.js)
+
 ### Staking
 
 https://twitter.com/EthernautDAO/status/1571136905021952001
